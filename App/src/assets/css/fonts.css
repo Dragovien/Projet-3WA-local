@@ -1,0 +1,86 @@
+/* Font Garrick normal */
+@font-face {
+  font-family: 'Garrick';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap; 
+  src: local('Garrick'), 
+  url(../fonts/garrick/garrick.ttf) format('ttf'),
+  url(../fonts/garrick/garrick.woff) format('woff');
+}
+
+/* Font Garrick bold */
+@font-face {
+  font-family: 'Garrick';
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap; 
+  src: local('Garrick'), 
+  url(../fonts/garrick/garrick-bold.ttf) format('ttf'),
+  url(../fonts/garrick/garrick-bold.woff) format('woff');
+}
+
+/* Font Garrick italic */
+@font-face {
+  font-family: 'Garrick';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap; 
+  src: local('Garrick'), 
+  url(../fonts/garrick/garrick-italic.ttf) format('ttf'),
+  url(../fonts/garrick/garrick-italic.woff) format('woff');
+}
+
+/* Font Garrick bold italic */
+@font-face {
+  font-family: 'Garrick';
+  font-style: italic;
+  font-weight: bold;
+  font-display: swap; 
+  src: local('Garrick'), 
+  url(../fonts/garrick/garrick-bold-italic.ttf) format('ttf')
+  url(../fonts/garrick/garrick-bold-italic.woff) format('woff');
+}
+
+/* Open Dyslexic */
+
+
+/* Font Open Dyslexic normal */
+@font-face {
+  font-family: 'OpenDyslexic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap; 
+  src: local('OpenDyslexic'), 
+  url(../fonts/OpenDyslexic/OpenDyslexic.otf);
+}
+
+/* Font Open Dyslexic bold */
+@font-face {
+  font-family: 'OpenDyslexic';
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap; 
+  src: local('OpenDyslexic'), 
+  url(../fonts/OpenDyslexic/OpenDyslexic-bold.otf);
+}
+
+/* Font Open Dyslexic italic */
+@font-face {
+  font-family: 'OpenDyslexic';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap; 
+  src: local('OpenDyslexic'), 
+  url(../fonts/OpenDyslexic/OpenDyslexic-italic.otf);
+}
+
+/* Font Open Dyslexic bold italic */
+@font-face {
+  font-family: 'OpenDyslexic';
+  font-style: italic;
+  font-weight: bold;
+  font-display: swap; 
+  src: local('OpenDyslexic'), 
+  url(../fonts/OpenDyslexic/OpenDyslexic-bold-italic.otf);
+}
